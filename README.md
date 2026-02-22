@@ -135,9 +135,10 @@ Check that the file exists at `emotion_detector_models/model_v6_23.hdf5` and dep
 
 ## 👩‍💻 Author
 
-`<Your Name>`  
+`Yamini Devika Kanakam`  
 Final Year Project
 
 ## 📄 License
+
 
 This project is licensed under the MIT License.
