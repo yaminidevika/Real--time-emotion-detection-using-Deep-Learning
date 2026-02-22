@@ -1,0 +1,10 @@
+Starting Debug...
+Current Working Directory: C:\Users\mohan\Downloads\FinalYearProject\face_and_emotion_detection
+Attempting to load cascade from: C:\Users\mohan\AppData\Local\Programs\Python\Python312\Lib\site-packages\cv2\data\haarcascade_frontalface_default.xml
+Cascade file exists.
+SUCCESS: Face Cascade loaded.
+Attempting to load model from: emotion_detector_models/model_v6_23.hdf5
+Model file exists.
+ERROR: Exception loading model (compile=False): Kernel shape must have the same length as input, but received kernel of shape (3, 3, 1, 32) and input of shape (None, None, 48, 48, 1).
+ERROR: Exception loading model (compile=True): Kernel shape must have the same length as input, but received kernel of shape (3, 3, 1, 32) and input of shape (None, None, 48, 48, 1).
+Debug complete.
